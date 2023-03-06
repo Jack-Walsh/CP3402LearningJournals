@@ -2,7 +2,7 @@
 **#Week 1 & 2
 
 
-**Learning Activities
+**Learning Activities**
 
 
 **Resources/Links
