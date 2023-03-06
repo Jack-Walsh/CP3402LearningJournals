@@ -1,5 +1,5 @@
 # CP3402LearningJournals
-**Week 1 & 2**
+# **Week 1 & 2**
 
 
 **Learning Activities**
