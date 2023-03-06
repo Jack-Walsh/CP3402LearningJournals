@@ -17,5 +17,5 @@ I spent an estimated 11-12 hours over the last two weeks learning the course res
 **Content Insights**  
 I revised and now understand again how to create grids with columns and rows to structure content. I learned that ChatGPT is an incredible tool for helping achieve a solid foundation to develop ideas and further build on simple content. 
 
-**Career/Employability/Learning Insights** 
+**Career/Employability/Learning Insights**  
 I found watching the videos on a faster speed during sections where I already knew the content and helped to be more productive but still get that refresher in. I found working on the content and practical steadily and consistently has helped to absorb more information.
