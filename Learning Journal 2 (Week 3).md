@@ -17,4 +17,4 @@ I spent an estimated 5-6 hours over the last week learning the course resources 
 It was good to see how powerful Joomla is, there are plenty of extensions and templates available to plugin. I need to spend more time learning about how to customise templates to fully customise and personalise a site.
 
 **Career/Employability/Learning Insights**  
-This week I don't have any specific Career/Employability/Learning insights. I spent alot of time learning and configuring Joomla.
+I don't have any specific Career/Employability/Learning insights. I spent alot of time learning and configuring Joomla.
