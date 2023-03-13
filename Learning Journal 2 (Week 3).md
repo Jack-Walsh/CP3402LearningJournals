@@ -3,8 +3,7 @@
 
 
 **Learning Activities**  
-The past week, I completed a LinkedIn Learning coruse and a "How to build a website with Joomla 4", to familiarise myself with the basics of Joomla.  
-Joomla Tutorial: https://www.youtube.com/watch?v=h5VZwTLdgdM  
+The past week, I completed a LinkedIn Learning coruse and a "How to build a website with Joomla 4", to familiarise myself with the basics of Joomla.  (Joomla Tutorial: https://www.youtube.com/watch?v=h5VZwTLdgdM)  
 I also spent time reading through the Joomla Template Docs: https://docs.joomla.org/Portal:Template_Management
 
 **Resources/Links**  
