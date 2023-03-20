@@ -6,7 +6,7 @@
 
 
 **Resources/Links**  
-https://www.youtube.com/watch?v=49aOUHkvlgg
+Host a Wordpress Website on AWS using Amazon Lightsail (Youtube Tutorial): https://www.youtube.com/watch?v=49aOUHkvlgg
 
 
 **Estimated Hours**  
