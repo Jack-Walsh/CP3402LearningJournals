@@ -15,7 +15,7 @@ Migrating WordPress with WP Migrate DB and DB Pro: https://www.linkedin.com/lear
 
 
 **Estimated Hours**  
-I spent an estimated 6-7 hours over the last week learning the course resources and finalising the direction I want to take for the first assignment in terms of hosting options and CMS's.
+I spent an estimated 7-8 hours over the last week learning the course resources and finalising the direction I want to take for the first assignment in terms of hosting options and CMS's.
 
 
 **Content Insights**  
