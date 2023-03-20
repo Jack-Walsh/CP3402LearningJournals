@@ -19,7 +19,7 @@ I spent an estimated 6-7 hours over the last week learning the course resources 
 
 
 **Content Insights**  
-I learned how simple it is to implement a hosting option such as Lightsail. I have spent alot of time considering hosting plans but once you have an account created with AWS. It takes seconds to have Joomla and Wordpress both installed. Attaching a static IP in Lightsail helps to prevent the site from breaking if the computer hosting the site goes down.
+I learned how simple it is to implement a hosting option such as Lightsail. I have spent alot of time considering hosting plans but once you have an account created with AWS, it takes seconds to have Joomla and Wordpress both installed. Attaching a static IP in Lightsail helps to prevent the site from breaking if the computer hosting the site goes down.
 
 
 **Career/Employability/Learning Insights**  
