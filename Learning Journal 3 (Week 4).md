@@ -10,7 +10,8 @@ This week I am still working through LinkedIn Learning Resources: https://www.li
 **Resources/Links**  
 Host a Wordpress Website on AWS using Amazon Lightsail (Youtube Tutorial): https://www.youtube.com/watch?v=49aOUHkvlgg  
 Mapping the Modern Web Design Process: https://www.linkedin.com/learning/mapping-the-modern-web-design-process/roles-and-responsibilities-14878788?autoSkip=true&autoplay=true&resume=false&u=2223545  
-Version Control for Everyone: https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?resume=false&u=2223545     Migrating WordPress with WP Migrate DB and DB Pro: https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/welcome?resume=false&u=2223545
+Version Control for Everyone: https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?resume=false&u=2223545  
+Migrating WordPress with WP Migrate DB and DB Pro: https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro/welcome?resume=false&u=2223545
 
 
 **Estimated Hours**  
