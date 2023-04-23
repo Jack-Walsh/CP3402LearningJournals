@@ -1,5 +1,5 @@
 # CP3402 Learning Journals
-### **Week 8**  
+### **Practical 8**  
 
 
 **Learning Activities**  
