@@ -1,5 +1,5 @@
 # CP3402 Learning Journals
-### **Prac 6**  
+### **Practical 6**  
 
 
 **Learning Activities**  
