@@ -1,5 +1,5 @@
 # CP3402 Learning Journals
-### **Week 6**  
+### **Prac 6**  
 
 
 **Learning Activities**  
