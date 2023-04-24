@@ -6,9 +6,10 @@
 
 
 **Resources/Links**
-This last week I watched through relevant parts of the LinkedIn Learning courses: https://www.linkedin.com/learning/learning-php-2015/using-links-in-an-include-file?autoSkip=true&autoplay=true&resume=false&u=2223545 and https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?autoSkip=true&autoplay=true&resume=false&u=2223545.
+This last week I watched through the relevant parts of the LinkedIn Learning courses: https://www.linkedin.com/learning/learning-php-2015/using-links-in-an-include-file?autoSkip=true&autoplay=true&resume=false&u=2223545 and https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/connect-to-mysql-with-php-14190443?autoSkip=true&autoplay=true&resume=false&u=2223545.
 
 **Estimated Hours**  
+I spent an estimated 5-6 hours working with the team, configuring the PHP Storm interpreter and learning PHP.
 
 
 **Content Insights**  
