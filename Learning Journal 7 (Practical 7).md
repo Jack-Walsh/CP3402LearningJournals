@@ -15,6 +15,8 @@ I spent an estimated 5-6 hours working with the team, configuring the PHP Storm 
 
 
 **Content Insights**  
+Throughout my learning of PHP I understand why it is said that PHP is not too difficult to pick up if you have experience with programming languages already. I can see how simple PHP code can have a major impact on the creativity of a website and how a dynamic website can really create an edge to a static site.
 
 
 **Career/Employability/Learning Insights**  
+Learning and mastering PHP is definitely worth it and essential if I was to pursue a career in web development.
