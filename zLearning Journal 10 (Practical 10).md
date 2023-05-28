@@ -7,9 +7,9 @@ To complete our group project we utilised Local (by Flywheel) and Flywheel servi
 There were also other moments throughout the project where I wanted to implement a particular element or couldn't figure out how to design an element on the site, so I was required to watch tutorials and read up as much as I could to learn about them. Examples of this was configuring the navigation bar and adding unique styles to it, same with the footer and adding different divs and aligning them correctly.
 
 #### **Resources/Links**
-Flywheel: https://www.youtube.com/watch?v=5hOHpCcGBVE
-Flywheel: https://www.youtube.com/watch?v=dvJ10tCc3IE
-Custom WordPress Theme Development Tutorial: https://www.youtube.com/watch?v=-h7gOJbIpmo
+Flywheel: https://www.youtube.com/watch?v=5hOHpCcGBVE  
+Flywheel: https://www.youtube.com/watch?v=dvJ10tCc3IE  
+Custom WordPress Theme Development Tutorial: https://www.youtube.com/watch?v=-h7gOJbIpmo  
 Developing Locally with WordPress using PHPStorm and Local by FlyWheel: https://coder-joey.github.io/Local-Dev-PHPStorm-Local-by-FlyWheel/
 
 #### **Estimated Hours**  
