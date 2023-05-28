@@ -1,5 +1,5 @@
 # CP3402 Learning Journals
-## **Practical 10**  
+## **Practical 11**  
 
 #### **Learning Activities**  
 To complete our group project we utilised Local (by Flywheel) and Flywheel services to host our site with our local, staging, and production environments. As one of my roles was to configure this, I had to spend time learning how to push our sites from environment to environment while allowing all of our team members to access and edit the site. To accomplish this, I watched tutorials on how to correctly push and pull our site including the database. As part of the theme development I wanted to ensure we were covering all parts of the template/theme, so to assist me with this I watched YouTube tutorials.  
