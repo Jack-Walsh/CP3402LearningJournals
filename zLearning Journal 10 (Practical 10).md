@@ -2,16 +2,16 @@
 ### **Practical 10**  
 
 
-**Learning Activities**  
+### **Learning Activities**  
 
 
-**Resources/Links**
+### **Resources/Links**
 
 
-**Estimated Hours**  
+### **Estimated Hours**  
 
 
-**Content Insights**  
+### **Content Insights**  
 
 
-**Career/Employability/Learning Insights**  
+### **Career/Employability/Learning Insights**  
