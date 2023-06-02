@@ -5,7 +5,7 @@
 #### **Learning Activities**
 
 #### **Resources/Links**
-LinkedIn Learning: https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser/what-to-know-before-you-start-this-course?autoSkip=true&autoplay=true&resume=false&u=2223545
+LinkedIn Learning: https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser/what-to-know-before-you-start-this-course?autoSkip=true&autoplay=true&resume=false&u=2223545  
 LinkedIn Learning: https://www.linkedin.com/learning/wordpress-building-child-themes-3/level-up-to-wordpress-developer?autoplay=true&resume=false&u=2223545
 
 #### **Estimated Hours**  
